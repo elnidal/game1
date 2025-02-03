@@ -22,3 +22,4 @@ A simple browser-based game where you control a dinosaur that jumps over wolves.
 - HTML5
 - CSS3
 - JavaScript
+ 
